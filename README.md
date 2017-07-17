@@ -2,7 +2,7 @@
 
 vue2 starter kit
 
-基于uview脚手架改造
+基于iview脚手架改造
 
 ```
 
