@@ -9,9 +9,6 @@ vue2 starter kit
 //安装依赖
 npm install
 
-//初始化
-npm run init
-
 //本地开发
 npm run start
 

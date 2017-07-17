@@ -5,7 +5,6 @@
   "scripts": {
     "sit": "NODE_ENV=sit npm run build",
     "release": " npm run build",
-    "init": "webpack --progress --config webpack.dev.config.js",
     "watch": "npm run start",
     "start": "node_modules/.bin/webpack-dev-server --content-base ./ --open --inline --hot --compress --history-api-fallback --config webpack.dev.config.js",
     "build": "webpack --progress --hide-modules --config webpack.prod.config.js",
