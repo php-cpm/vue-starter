@@ -1,0 +1,18 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "heitu-admin",
+    "username": "zouyi6",
+    "userEmail": "zouyi6@wanda.cn",
+    "stack": "fullstack",
+    "repoHostUrl": "work.dianshang.wanda.cn",
+    "userNameSpace": "zouyi6",
+    "client": "vue2",
+    "stylePreprocessor": "sass",
+    "server": "go",
+    "goWebFrameworkServer": "gin",
+    "secure": false,
+    "testsSeparated": true,
+    "differentStaticServer": true,
+    "boilerplate": true
+  }
+}
